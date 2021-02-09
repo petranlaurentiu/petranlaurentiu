@@ -4,10 +4,10 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="mailto: petran_laurentiu@yahoo.com">
+  <a href="mailto: petran_laurentiu@yahoo.com"> Mail me
     
   </a>
-  <a href="https://www.linkedin.com/in/petran-laurentiu-emil/">
+  <a href="https://www.linkedin.com/in/petran-laurentiu-emil/">LinkedIn
     
   </a>
 </p>
