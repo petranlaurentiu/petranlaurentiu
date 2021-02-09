@@ -5,10 +5,10 @@
 
 <p align="left">
   <a href="mailto: petran_laurentiu@yahoo.com">
-    <img src="images/email.png" alt="Email Me" style="vertical-align:top margin:6px 4px">
+    <img src="images/email.png" alt="Email Me" style="vertical-align:top margin:6px 4px; width:10%">
   </a>
   <a href="https://www.linkedin.com/in/petran-laurentiu-emil/">
-    <img src="images/linkedin.png" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
+    <img src="images/linkedin.png" alt="LinkedIn" style="vertical-align:top margin:6px 4px; width:10%">
   </a>
 </p>
 <!--
