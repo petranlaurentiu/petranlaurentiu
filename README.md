@@ -4,7 +4,7 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="mailto: petran_laurentiu@yahoo.com"> Mail me
+  <a href="mailto: petran_laurentiu@yahoo.com"> Mail
     
   </a>
   <a href="https://www.linkedin.com/in/petran-laurentiu-emil/">LinkedIn
