@@ -1,5 +1,5 @@
 ### Hi there 👋
-### nICE TO MEET YOU!
+### NICE TO MEET YOU!
 
 ### Connect with me:
 
