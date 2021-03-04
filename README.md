@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a Full Stack Developer.
+### nICE TO MEET YOU!
 
 ### Connect with me:
 
